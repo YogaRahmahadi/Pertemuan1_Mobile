@@ -1,5 +1,9 @@
 # hello
 
+- Nama  : Yoga Rahmahadi
+- NIM   : 2041720155
+- Kelas : TI-3H
+
 A new Flutter project.
 
 ## Getting Started
